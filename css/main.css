@@ -1,0 +1,51 @@
+
+/*Button*/
+.btn {
+   padding: 10px 0 10px 0; 
+}
+
+/*Header*/
+.header {
+    background-image: url(../Images/14-flower.jpg);
+    background-color: gold;
+    font-size: 40px;
+    
+}
+body {
+    background-image: url(../Images/calmflower.jpg);
+}
+img {
+    width: auto;
+    height: 100%;
+}
+nav {
+    font-size: 40px;
+}
+/*Contacts*/
+.contacts {
+    font-size: 40px;
+    background-image: url(../Images/14-flower.jpg)
+}
+
+/*About*/
+.about {
+    font-size: 40px;
+    background-image: url(../Images/14-flower.jpg)
+}
+
+/*Flower*/
+.flower {
+    font-size: 40px;
+    background-image: url(../Images/14-flower.jpg);
+}
+
+/*Footer*/
+.footer {
+    font-size: 30px;
+}
+
+/*Gallery*/
+.Gallery {
+    height: 100%;
+    width: auto;
+}
